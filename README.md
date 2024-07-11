@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Serpant4632
+- 👋 Hi, I’m Lukas
 - 👀 I’m interested in electronics and hardware programming
-- 🌱 I’m currently learning C, Cpp and Python
+- 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me per mail via 
 
