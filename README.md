@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lukas
-- 👀 I’m interested in electronics and hardware programming
-- 🌱 I’m currently learning C and Python
+- 👀 I’m interested in electronics design and hardware programming
+- 🌱 I’m currently learning C, SQL and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me per mail via 
 
